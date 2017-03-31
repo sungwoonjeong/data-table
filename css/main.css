@@ -30,3 +30,13 @@ tbody tr:nth-child(odd) {
 .note {
   width: 16em;
 }
+
+table {
+  min-width: 50em;
+}
+
+@media only screen and (min-width: 60em) {
+  .table-wrap {
+    overflow: visible;
+  }
+}
