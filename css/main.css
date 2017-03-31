@@ -16,5 +16,17 @@ tfoot {
 }
 
 tbody tr:nth-child(odd) {
-  background-color: #e2e2e2;  
+  background-color: #e2e2e2;
+}
+
+.year {
+  width: 7em;
+}
+
+.distance {
+  width: 6em;
+}
+
+.note {
+  width: 16em;
 }
